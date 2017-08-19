@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
   <category label="General">
-    <setting label="URL" type="text" id="URL" default="http://192.168.2.37:4444/post"/>
+    <setting label="IgnoreURL" type="text" id="IgnoreURL" default="http://192.168.2.37:4444/post"/>
+    <setting label="SelectURL" type="text" id="SelectURL" default="http://192.168.2.36:4444/post"/>
   </category>
 </settings>
